@@ -14,10 +14,9 @@ header {
 
 #bg {
     grid-area: left;
-    background: url('../images/home-bg-img.svg') no-repeat top/contain;
-    background-position-x: -10rem;
+    background: url('../images/equipe2.png') no-repeat top/contain;
 }
-
+/* home-bg-img.svg */
 main {
     grid-area: right;
     margin-top: -12rem;

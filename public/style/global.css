@@ -109,9 +109,20 @@ button.grey,
 
 /* -----HEADER------ */
 
+#img-logo {
+    display: flex;
+    align-items: center;
+}
+
 .content header {
     width: 80%;
-    margin: 3.5rem auto;
+    margin: 1rem auto;
+    margin-right: 3.5rem;
+}
+
+.content header img:nth-child(1) {
+    width: 8rem;
+    margin-right: 3rem;
 }
 
 .content header img {
